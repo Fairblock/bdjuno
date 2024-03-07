@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fairyring/app"
+	"github.com/Fairblock/fairyring/app"
 
 	"github.com/cosmos/cosmos-sdk/types/module"
 	"github.com/forbole/juno/v5/cmd"
